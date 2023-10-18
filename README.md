@@ -2,7 +2,7 @@
 ----
 
 ### 🖐 About me 
-I’m studying Computer Science at Gdańsk University of Technology and have worked as SDE intern in Amazon.
+I’m studying Human Centered AI at Technical University of Denmark and have worked as SDE intern in Amazon.
 Finding optimal solutions to real problems along with good team excites me.
 
 ### Languages
